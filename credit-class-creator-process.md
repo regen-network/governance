@@ -1,5 +1,7 @@
 # Process For Becoming a Credit Class Creator
 
+Version: 1
+
 ## Background
 
 With the launch of Regen Ledger v2.0, we are excited to bring the first version of the ecocredit module to Regen Mainnet. This module is intended to be used for the issuance, tracking, trading, and retiring of ecosystem service credits managed on Regen Ledger.
