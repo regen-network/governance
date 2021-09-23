@@ -30,7 +30,9 @@ A credit class includes a metadata field intended to be used as a pointer to a l
 ### Credit Class Creator
 
 A credit class creator is an address with the authority to create credit classes. The list of approved credit class creators is stored as an on-chain parameter that can only be updated through the governance process. Credit classes can be created by executing a transaction on-chain with the required credit type, metadata, and list of approved issuers. Upon creation of a credit class, the credit class creator is set as the admin for the given credit class.
-Credit Class Administrator
+
+### Credit Class Administrator
+
 The credit class administrator (`CreditClassAdmin` as represented in code) is defined within a credit class as the address with the authority to manage and update the credit class. The credit class admin will have the ability to transfer the admin role to another address, manage the list of credit class issuers, and change credit class metadata.
 
 ### Credit Issuers
