@@ -1,6 +1,6 @@
 # Regen Ledger v2.0 Upgrade
 
-This is a software upgrade proposal for the upgrade to Regen Ledger v2.0. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v1.0 at approximately 16:00 UTC on Nov 16th and starting the application binary for Regen Ledger v2.0.
+This is a software upgrade proposal for the upgrade to Regen Ledger v2.0. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v1.0 at approximately 16:00 UTC on Nov 17th and starting the application binary for Regen Ledger v2.0.
 
 Validators and node operators can refer to the [v2.0 migration documentation](https://docs.regen.network/migrations/v2.0-upgrade) for guidelines on performing the upgrade.
 
