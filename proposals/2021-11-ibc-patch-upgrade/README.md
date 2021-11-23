@@ -1,0 +1,5 @@
+# IBC Patch Upgrade
+
+The recent upgrade to Regen Ledger v2 was a great success. However there's a bug in the integration, which created an issue for IBC transfers. IBC transfers are not going through currently due to a missing migration for the IBC module. Regen Ledger v2.1.0 fixes that and this proposal is to conduct an emergency upgrade to avoid any further potential issues with the IBC client expiry. If the IBC client expires, the funds would get stuck in the expired channel, so we need to upgrade the network to fix this before the IBC clients expire.
+
+This proposal expects every validator to update their regen software to v2.1.0 and vote on this proposal. A yes vote on this proposal conveys that the validator has updated their binaries to v2.1.0."
