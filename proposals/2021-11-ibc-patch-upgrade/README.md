@@ -4,7 +4,7 @@ The recent upgrade to Regen Ledger v2 was a great success. However there's a bug
 
 This proposal expects every validator to update their regen software to v2.1.0 before the block height 3126912 and then to vote on this proposal. A yes vote on this proposal conveys that the validator has updated their binaries to v2.1.0.
 
-Estimated update time is Friday, 26th Nov, 1700UTC.
+Estimated upgrade time is Friday, 26th Nov, 1700UTC.
 
 ## Upgrade Instructions
 
