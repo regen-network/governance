@@ -14,7 +14,7 @@ This proposal was written following the guidelines in [Process For Becoming a Cr
 -   overview of planned credit classes for credits from other registries    
 -   overview of plan for continuous decentralization of Regen Registry
  
-In addition, the RND staff is committed to working closely with the community on the migration of credit class data to ensure the data is migrated appropriately.
+In addition, RND staff currently managing Regen Registry are committed to working closely with the community on the migration of credit class data expected in subsequent releases to ensure data is migrated appropriately.
 
 ## Regen Registry Overview
 
