@@ -1,12 +1,10 @@
 # Credit Class Creator - Regen Registry
 
-Version: 1
-
 ## Introduction
 
-This proposal is a parameter change proposal to add a multisig address owned and operated by members of the [Regen Registry](https://registry.regen.network/) team to the list of approved credit class creators. This proposal was written following the guidelines in [Process For Becoming a Credit Class Creator](https://github.com/regen-network/governance/blob/main/proposals/2021-09-regen-ledger-v2-signalling/credit-class-creator-process.md).
+This is a parameter change proposal to add a multisig address managed by members of Regen Network Development (RND) to the list of allowed credit class creators. RND staff are applying on behalf of [Regen Registry](https://registry.regen.network/), what is envisioned to become a community governed registry program owned and operated by experts committed to ecological regeneration.
 
-The goal of this document is to demonstrate the qualifications of Regen Registry for being an approved credit class creator. This document includes the following:
+This proposal was written following the guidelines in [Process For Becoming a Credit Class Creator](https://github.com/regen-network/governance/blob/main/proposals/2021-09-regen-ledger-v2-signalling/credit-class-creator-process.md). The goal of this document is to demonstrate the qualifications of Regen Registry for being an approved credit class creator. This document includes the following:
 
 -   overview of Regen Registry
 -   explanation of how Regen Registry plans to manage credits on behalf of community members
@@ -16,7 +14,7 @@ The goal of this document is to demonstrate the qualifications of Regen Registry
 -   overview of planned credit classes for credits from other registries    
 -   overview of plan for continuous decentralization of Regen Registry
  
-Regen Registry is currently managed by members of the Regen Network Development (RND) team and is committed to working closely with the community on the migration of credit class data to ensure the data is migrated appropriately.
+In addition, the RND staff is committed to working closely with the community on the migration of credit class data to ensure the data is migrated appropriately.
 
 ## Regen Registry Overview
 
