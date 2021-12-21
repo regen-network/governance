@@ -1,0 +1,13 @@
+{
+    "title":"Credit Class Creator - Regen Registry",
+    "description":"This is a parameter change proposal to add a multisig address for Regen Registry, currently managed by members of Regen Network Development (RND), to the list of allowed credit class creators. The RND staff are applying on behalf of Regen Registry, which we envision will become the first community governed registry program, owned and operated by experts committed to ecological regeneration.\n\nFor more information, see the long-form proposal: https://github.com/regen-network/governance/tree/main/proposals/2021-12-regen-registry-credit-class-creator",
+    "changes": [
+        {
+            "subspace": "ecocredit",
+            "key": "AllowedClassCreators",
+            "value": [
+                "regen123a7e9gvgm53zvswc6daq7c85xtzt8263lgasm"
+            ]
+        }
+    ]
+}
