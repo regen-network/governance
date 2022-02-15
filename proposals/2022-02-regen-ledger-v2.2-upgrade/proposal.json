@@ -1,0 +1,11 @@
+{
+    "title":"Regen Ledger v2.2 Upgrade",
+    "description":"This is a software upgrade proposal for the upgrade to Regen Ledger v2.2. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v2.1 at approximately 16:00 UTC on March 5thth and starting the application binary for Regen Ledger v2.2. \n\nMore details can be found in the long form proposal: https://github.com/regen-network/governance/tree/main/proposals/2022-02-regen-ledger-v2.2-upgrade",
+    "upgrade-height": 0,
+    "upgrade-info": {
+        "binaries": {
+            "linux/amd64": "",
+            "darwin/amd64": ""
+        }
+    }
+}
