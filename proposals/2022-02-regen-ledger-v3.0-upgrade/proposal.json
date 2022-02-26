@@ -4,8 +4,8 @@
   "upgrade-height": 4623339,
   "upgrade-info": {
     "binaries": {
-      "linux/amd64": "https://github.com/regen-network/regen-ledger/releases/download/v3.0.0/regen-ledger_3.0.0_linux_amd64.zip",
-      "darwin/amd64": "https://github.com/regen-network/regen-ledger/releases/download/v3.0.0/regen-ledger_3.0.0_darwin_amd64.zip"
+      "linux/amd64": "https://github.com/regen-network/regen-ledger/releases/download/v3.0.0/regen-ledger_3.0.0_linux_amd64.zip?checksum=sha256:5f297431c1e14d81319609564e392295e82c847cf78f295694961f9bded5419e",
+      "darwin/amd64": "https://github.com/regen-network/regen-ledger/releases/download/v3.0.0/regen-ledger_3.0.0_darwin_amd64.zip?checksum=sha256:4b33d7ae45a0de5745b6c23da79b4ef466af3a9ee7cc2b6501d485db4fe8589e"
     }
   }
 }
