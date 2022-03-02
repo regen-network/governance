@@ -2,7 +2,7 @@
 
 This is a software upgrade proposal for the upgrade to Regen Ledger v3.0. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v2.1 at approximately 16:00 UTC on March 14th and starting the application binary for Regen Ledger v3.0.
 
-Validators and node operators can refer to the [v3.0 migration documentation](TBD) for guidelines on performing the upgrade.
+Validators and node operators can refer to the [v3.0 migration documentation](https://docs.regen.network/migrations/v3.0-upgrade.html) for guidelines on performing the upgrade.
 
 ## Background
 
