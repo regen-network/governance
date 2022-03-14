@@ -18,7 +18,7 @@ The following guidelines should be taken into consideration before submitting an
 
 - The time between socializing the proposal and submitting the proposal will vary depending on the proposal and community engagement but generally a proposal should be brought to discussion *at least* one week before submitting the proposal on chain.
 
-- In certain circumstances, an emergency proposal may need to be submitted. An emergency proposal fixes a security vulnerability or a halted network and in which case these guidelines may not apply.
+- In certain circumstances, an emergency proposal may need to be submitted. An emergency proposal fixes a security vulnerability or a critical bug in the software and in which case these guidelines may not apply.
 
 ## Community
 
