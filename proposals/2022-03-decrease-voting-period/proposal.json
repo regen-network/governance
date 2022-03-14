@@ -1,0 +1,11 @@
+{
+    "title": "Decrease Voting Period",
+    "description": "This is a parameter change proposal decreasing the voting period for all governance proposals from 14 days to 7 days. \n\nMore information can be found in the long-form proposal: https://github.com/regen-network/governance/tree/main/proposals/2022-03-decrease-voting-period",
+    "changes": [
+        {
+            "subspace": "gov",
+            "key": "VotingPeriod",
+            "value": "604800000000000"
+        }
+    ]
+}
