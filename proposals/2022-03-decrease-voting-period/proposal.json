@@ -4,8 +4,8 @@
     "changes": [
         {
             "subspace": "gov",
-            "key": "VotingPeriod",
-            "value": "604800000000000"
+            "key": "votingparams",
+            "value": {"voting_period": "604800000000000"}
         }
     ]
 }
