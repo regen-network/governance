@@ -10,13 +10,15 @@ This repository includes long-form proposals and supporting documentation for Re
 
 The following guidelines should be taken into consideration before submitting and voting on proposals. Proposals that do not follow these guidelines might be voted down on principle.
 
-- All proposals should first be socialized on [the Regen Network governance forum](https://commonwealth.im/regen) before being submitted on chain.
+- All proposals should first be socialized on the Regen Network [Governance Forum](https://commonwealth.im/regen) before they are submitted on chain (especially before the deposit is made, which will start the voting period).
 
-- When socializing a proposal, the initial forum post should include a rational weighing the potential pros and cons of the outcome and provide supporting documentation and examples when appropriate.
+- When socializing a proposal, the forum post should include a rational for the proposal that weighs the potential pros and cons of the outcome and provides supporting documentation and examples when appropriate.
 
-- Once a forum discussion has been created, a link to the discussion should be shared publicly in [the Regen Network Discord server](https://discord.gg/regen-network) and promoted on social media platforms including Twitter (tagging [@regen_network](https://twitter.com/regen_network)).
+- Once a forum discussion has started, a link to the discussion should be shared publicly in the #governance channel of the Regen Network [Discord Server](https://discord.gg/regen-network) and ideally shared on Telegram and Twitter (tagging [@regen_network](https://twitter.com/regen_network)).
 
-- The time between socializing the proposal and submitting the proposal will vary depending on the proposal and community engagement but generally a proposal should be brought to discussion at least one week before submitting the proposal on-chain.
+- The time between socializing the proposal and submitting the proposal will vary depending on the proposal and community engagement but generally a proposal should be brought to discussion *at least* one week before submitting the proposal on chain.
+
+- In certain circumstances, an emergency proposal may need to be submitted. An emergency proposal is a proposal that fixes a security vulnerability or a halted network in which case these guidelines may not apply.
 
 ## Community
 
