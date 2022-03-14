@@ -14,11 +14,11 @@ The following guidelines should be taken into consideration before submitting an
 
 - When socializing a proposal, the forum post should include a rational for the proposal that weighs the potential pros and cons of the outcome and provides supporting documentation and examples when appropriate.
 
-- Once a forum discussion has started, a link to the discussion should be shared publicly in the #governance channel of the Regen Network [Discord Server](https://discord.gg/regen-network) and ideally shared on Telegram and Twitter (tagging [@regen_network](https://twitter.com/regen_network)).
+- Once a forum discussion has started, a link to the discussion should be shared publicly in the #governance channel of the Regen Network [Discord Server](https://discord.gg/regen-network) and on Telegram and Twitter (tagging [@regen_network](https://twitter.com/regen_network)).
 
 - The time between socializing the proposal and submitting the proposal will vary depending on the proposal and community engagement but generally a proposal should be brought to discussion *at least* one week before submitting the proposal on chain.
 
-- In certain circumstances, an emergency proposal may need to be submitted. An emergency proposal is a proposal that fixes a security vulnerability or a halted network in which case these guidelines may not apply.
+- In certain circumstances, an emergency proposal may need to be submitted. An emergency proposal fixes a security vulnerability or a halted network and in which case these guidelines may not apply.
 
 ## Community
 
