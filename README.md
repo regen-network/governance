@@ -8,7 +8,7 @@ This repository includes long-form proposals and supporting documentation for Re
 
 ## Guidelines
 
-The following guidelines should be taken into consideration before submitting and voting on proposals. Proposals that do not follow these guidelines might be voted down on principle.
+The following guidelines should be taken into consideration before submitting and voting on proposals. Proposals that do not follow these guidelines may be voted down on principle.
 
 - All proposals should first be socialized on the Regen Network [Governance Forum](https://commonwealth.im/regen) before they are submitted on chain (especially before the deposit is made, which will start the voting period).
 
