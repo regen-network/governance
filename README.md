@@ -2,6 +2,8 @@
 
 This repository includes long-form proposals and supporting documentation for Regen Network governance.
 
+It is not required that community members submit proposals to this repository or that they use this repository for long-form proposals and supporting documentation but pull requests are more than welcome. With that being said, any significant changes to the guidelines should go through the governance process in the form of a text proposal.
+
 ## Contents
 
 - [List of Proposals](./proposals)
