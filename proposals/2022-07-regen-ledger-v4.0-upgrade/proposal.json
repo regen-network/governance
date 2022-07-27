@@ -1,0 +1,13 @@
+{
+  "title": "Regen Ledger v4.0 Upgrade",
+  "description": "This is a software upgrade proposal for the upgrade to Regen Ledger v4.0. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v3.0 at approximately 16:00 UTC on August 4th at block height 6589400 and requiring nodes to restart with the application binary for Regen Ledger v4.0. \n\nMore details can be found in the long form proposal: https://github.com/regen-network/governance/tree/main/proposals/2022-07-regen-ledger-v4.0-upgrade",
+  "upgrade-height": 4623339,
+  "upgrade-info": {
+    "binaries": {
+      "linux/amd64": "https://github.com/regen-network/regen-ledger/releases/download/v4.0.0/regen-ledger_4.0.0_linux_amd64.zip?checksum=sha256:ca8e6020f2024f4cdb7722f917650a6334ad1f3068a8d14b0dba226bdd5532f0",
+      "linux/arm64": "https://github.com/regen-network/regen-ledger/releases/download/v4.0.0/regen-ledger_4.0.0_linux_arm64.zip?checksum=sha256:ff91db6d41f67c860776ae997a237c5cf11983392558fda0d46828ee42391a7f",
+      "darwin/amd64": "https://github.com/regen-network/regen-ledger/releases/download/v4.0.0/regen-ledger_4.0.0_darwin_amd64.zip?checksum=sha256:19a3e2107d56ef727961f8204acd272fe416794e794697199be6ff11399f9930",
+      "darwin/arm64": "https://github.com/regen-network/regen-ledger/releases/download/v4.0.0/regen-ledger_4.0.0_darwin_arm64.zip?checksum=sha256:74aba5f0575c6c0a78a29266369409d191e81d4607e0b7ae50b32a76f86446d8"
+    }
+  }
+}
