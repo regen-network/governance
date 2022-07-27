@@ -2,7 +2,7 @@
 
 This is a software upgrade proposal for the upgrade to Regen Ledger v4.0. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v3.0 at approximately 16:00 UTC on August 4th and requiring nodes to restart with the application binary for Regen Ledger v4.0.
 
-Validators and node operators can refer to [Upgrade Guide v4.0](https://docs.regen.network/validators/upgrade/v4.0-upgrade.html) for guidelines on performing the upgrade.
+Validators and node operators can refer to [Upgrade Guide v4.0](https://docs.regen.network/validators/upgrades/v4.0-upgrade.html) for guidelines on performing the upgrade.
 
 ## Regen Ledger v4.0
 
