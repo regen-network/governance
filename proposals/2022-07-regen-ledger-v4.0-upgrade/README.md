@@ -80,4 +80,4 @@ C01-001-20200101-20210101-001
 
 ## Changelog
 
-For a full list of changes since Regen Ledger v3.0, please see [CHANGELOG.md](./CHANGELOG.md).
+For a full list of changes since Regen Ledger v3.0, please see [CHANGELOG.md](https://github.com/regen-network/regen-ledger/blob/v4.0.0/CHANGELOG.md).
