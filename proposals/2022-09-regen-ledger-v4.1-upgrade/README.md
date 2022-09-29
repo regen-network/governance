@@ -25,4 +25,4 @@ A fix for this issue has been implemented in v4.1.1. It fixes amino serializatio
 
 ## Changelog
 
-For a full list of changes since Regen Ledger v4.0, please see [CHANGELOG.md](https://github.com/regen-network/regen-ledger/blob/v4.1.0/CHANGELOG.md).
+For a full list of changes since Regen Ledger v4.0, please see [CHANGELOG.md](https://github.com/regen-network/regen-ledger/blob/v4.1.1/CHANGELOG.md).
