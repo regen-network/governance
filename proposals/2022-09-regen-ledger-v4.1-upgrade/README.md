@@ -1,12 +1,12 @@
 # Regen Ledger v4.1 Upgrade
 
-This is a software upgrade proposal for the upgrade to Regen Ledger v4.1. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v4.0 at approximately 17:00 UTC on October 6th and starting the application binary for Regen Ledger v4.1.
+This is a software upgrade proposal for the upgrade to Regen Ledger v4.1. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v4.0 at approximately 16:00 UTC on October 7th and starting the application binary for Regen Ledger v4.1.
 
 ## Summary
 
 Recently the core developers of Regen Ledger were made aware of two bugs in Regen Ledger v4.0 that we deemed important to fix before the previously anticipated Regen Ledger v5.0. Both of these bugs required consensus-breaking changes to Regen Ledger. The developers have prepared a single upgrade (Regen Ledger v4.1) which contains both fixes, to ease the burdon on validators and not have to do two separate consecutive upgrades.
 
-## Validator Updates not propogating to Tendermint
+## Validator Updates not propagating to Tendermint
 
 As of Regen Ledger v4.0, Tendermint has not been receiving validator updates from the application state. This was initially reported by a member of our validator community. What resulted is that the actual block-signing validator set (managed by Tendermint) essentially froze as of the upgrade to Regen Ledger v4.0.
 
