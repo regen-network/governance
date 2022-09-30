@@ -1,10 +1,10 @@
 # Regen Ledger v4.1 Upgrade
 
-This is a software upgrade proposal for the upgrade to Regen Ledger v4.1.1. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v4.0 at block height 7479500 (approximately 16:00 UTC on Friday, October 7th) and starting the application binary for Regen Ledger v4.1.1.
+This is a software upgrade proposal for the upgrade to Regen Ledger v4.1.2. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v4.0 at block height 7479500 (approximately 16:00 UTC on Friday, October 7th) and starting the application binary for Regen Ledger v4.1.2.
 
 ## Summary
 
-Recently the core developers of Regen Ledger were made aware of two bugs in Regen Ledger v4.0 that we deemed important to fix before the previously anticipated Regen Ledger v5.0. Both of these bugs required consensus-breaking changes to Regen Ledger. The developers have prepared a single upgrade (Regen Ledger v4.1.1) which contains both fixes, to ease the burdon on validators and not have to do two separate consecutive upgrades.
+Recently the core developers of Regen Ledger were made aware of two bugs in Regen Ledger v4.0 that we deemed important to fix before the previously anticipated Regen Ledger v5.0. Both of these bugs required consensus-breaking changes to Regen Ledger. The developers have prepared a single upgrade (Regen Ledger v4.1.2) which contains both fixes, to ease the burdon on validators and not have to do two separate consecutive upgrades.
 
 ## Validator Updates not propagating to Tendermint
 
@@ -20,9 +20,9 @@ A fix for this issue has been implemented in Regen v4.1. It will, at the schedul
 
 Recently a bug was identified in how regen ledger serializes ecocredit transactions for Amino signing. When signing ecocredit transactions with a hardware wallet regen ledger mis-implements amino serialization, deviating from the behavior expected by javascript clients (namely Keplr wallet and CosmJS). As a result, hardware wallets could not be used for signing transactions initiated from a browser based application. (note: hardware wallet signing using the regen CLI was unaffected, and worked as expected).
 
-A fix for this issue has been implemented in v4.1.1. It fixes amino serialization such that Keplr and CosmJS can now be used to generate, sign, and broadcast transactions involving ecocredit functionality on Regen Network.
+A fix for this issue has been implemented in v4.1.2. It fixes amino serialization such that Keplr and CosmJS can now be used to generate, sign, and broadcast transactions involving ecocredit functionality on Regen Network.
 
 
 ## Changelog
 
-For a full list of changes since Regen Ledger v4.0, please see [CHANGELOG.md](https://github.com/regen-network/regen-ledger/blob/v4.1.1/CHANGELOG.md).
+For a full list of changes since Regen Ledger v4.0, please see [CHANGELOG.md](https://github.com/regen-network/regen-ledger/blob/v4.1.2/CHANGELOG.md).
