@@ -1,8 +1,10 @@
 # Regen Ledger v5.0 Upgrade
 
-This is a software upgrade proposal for the upgrade to Regen Ledger v5.0. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v4.1 at approximately 16:00 UTC on January 12th and requiring nodes to restart with the application binary for Regen Ledger v5.0.
+This is a software upgrade proposal for the upgrade to Regen Ledger v5.0. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v4.1 at approximately 16:00 UTC on January 12th and requiring nodes to restart with the application binary using Regen Ledger v5.0.
 
 Validators and node operators can refer to [Upgrade Guide v5.0](https://docs.regen.network/validators/upgrade/v5.0-upgrade.html) for guidelines on performing the upgrade.
+
+Application developers can refer to [Migration Guide v5.0](https://docs.regen.network/ledger/migrations/v5.0-migration.html) for guidelines on migrating their applications.
 
 ## New Features
 
@@ -68,4 +70,4 @@ Following Regen Ledger `v4.0`, and now with Regen Ledger `v5.0`, all experimenta
 
 ## Changelog
 
-For a full list of changes since Regen Ledger v4.1, please see [CHANGELOG.md](./CHANGELOG.md).
+For a full list of changes since Regen Ledger v4.1, please see [CHANGELOG.md](https://github.com/regen-network/regen-ledger/blob/v5.0.0/CHANGELOG.md).
