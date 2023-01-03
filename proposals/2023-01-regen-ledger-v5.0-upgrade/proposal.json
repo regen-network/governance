@@ -1,0 +1,13 @@
+{
+  "title": "Regen Ledger v5.0 Upgrade",
+  "description": "This is a software upgrade proposal for the upgrade to Regen Ledger v5.0. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger v4.1 at approximately 16:00 UTC on January 12th at block height XXX and requiring nodes to restart with the application binary for Regen Ledger v5.0. \n\nMore details can be found in the long form proposal: https://github.com/regen-network/governance/tree/main/proposals/2023-01-regen-ledger-v5.0-upgrade",
+  "upgrade-height": 0,
+  "upgrade-info": {
+    "binaries": {
+      "linux/amd64": "https://github.com/regen-network/regen-ledger/releases/download/v5.0.0/regen-ledger_5.0.0_linux_amd64.zip?checksum=sha256:XXX",
+      "linux/arm64": "https://github.com/regen-network/regen-ledger/releases/download/v5.0.0/regen-ledger_5.0.0_linux_arm64.zip?checksum=sha256:XXX",
+      "darwin/amd64": "https://github.com/regen-network/regen-ledger/releases/download/v5.0.0/regen-ledger_5.0.0_darwin_amd64.zip?checksum=sha256:XXX",
+      "darwin/arm64": "https://github.com/regen-network/regen-ledger/releases/download/v5.0.0/regen-ledger_5.0.0_darwin_arm64.zip?checksum=sha256:XXX"
+    }
+  }
+}
