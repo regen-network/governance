@@ -4,10 +4,8 @@
   "upgrade-height": 10068550,
   "upgrade-info": {
     "binaries": {
-      "linux/amd64": "https://github.com/regen-network/regen-ledger/releases/download/v5.1.0/regen-ledger_5.1.0_linux_amd64.zip?checksum=sha256:XXX",
-      "linux/arm64": "https://github.com/regen-network/regen-ledger/releases/download/v5.1.0/regen-ledger_5.1.0_linux_arm64.zip?checksum=sha256:XXX",
-      "darwin/amd64": "https://github.com/regen-network/regen-ledger/releases/download/v5.1.0/regen-ledger_5.1.0_darwin_amd64.zip?checksum=sha256:XXX",
-      "darwin/arm64": "https://github.com/regen-network/regen-ledger/releases/download/v5.1.0/regen-ledger_5.1.0_darwin_arm64.zip?checksum=sha256:XXX"
+      "linux/amd64": "https://github.com/regen-network/regen-ledger/releases/download/v5.1.0/regen-ledger_linux_amd64.zip?checksum=sha256:349fe3514b62feb21aecf34d5eb52869a9dfe2e7aee475c9d652b0fa0b874cb0",
+      "linux/arm64": "https://github.com/regen-network/regen-ledger/releases/download/v5.1.0/regen-ledger_linux_arm64.zip?checksum=sha256:6d9d320baf70f5d919629d30a3584aae115bf19d5800405686a83d5544a13b4d"
     }
   }
 }
