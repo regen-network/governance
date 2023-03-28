@@ -32,6 +32,8 @@ In addition, a user error was made at the time of creation and the disable auto-
 
 At the time of the proposed upgrade, the NCT basket will be updated to include a date criteria with years in the past set to 10 years (according to the NCT standard) and the disable auto-retire option will be set to true (allowing credits to be taken from the basket in a tradable state). The state migration for these changes can be viewed [here](https://github.com/regen-network/regen-ledger/blob/release/v5.1.x/x/ecocredit/migrations/v4/state.go).
 
+In addition, there have been some discussions about updating the NCT standard (specifically the date criteria). As a result, we have included a new governance message that will allow the date criteria of a basket to be updated through a network-wide governance vote.
+
 ### Updated Bridge Events
 
 The Toucan-Regen bridge is undergoing a final round of audits and testing. During this process, a few opportunities to simplify event processing were discovered and therefore new event properties have been added to the bridge events within the ecocredit module. The launch of the bridge is not dependent upon these changes.
