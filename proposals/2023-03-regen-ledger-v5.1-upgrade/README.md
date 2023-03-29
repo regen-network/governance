@@ -2,7 +2,7 @@
 
 This is a software upgrade proposal for the upgrade to Regen Ledger `v5.1`. If passed, this proposal would commit Regen Mainnet to halting the application binary for Regen Ledger `v5.0` at approximately 15:00 UTC on April 5th at block height `10068550` and requiring nodes to restart with the application binary using Regen Ledger `v5.1`.
 
-Validators and node operators can refer to [Upgrade Guide v5.1](https://docs.regen.network/validators/upgrade/v5.1-upgrade.html) for guidelines on performing the upgrade.
+Validators and node operators can refer to [Upgrade Guide v5.1](https://docs.regen.network/validators/upgrades/v5.1-upgrade.html) for guidelines on performing the upgrade.
 
 Application developers can refer to [Migration Guide v5.1](https://docs.regen.network/ledger/migrations/v5.1-migration.html) for guidelines on migrating their applications.
 
