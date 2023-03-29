@@ -1,3 +1,3 @@
 # Proposals
 
-This directory includes draft proposals for Regen Ledger governance.
+This directory includes long-form proposals for Regen Network governance.
